@@ -1,0 +1,4 @@
+{
+    "command": "npm install",
+    "working_directory": "/home/kavia/workspace/code-generation/asset-monitor-dashboard-b7c8b6c5/frontend_dashboard"
+}

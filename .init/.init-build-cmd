@@ -1,0 +1,4 @@
+{
+    "command": "npm install && npx tsc --noEmit && npm test -- --ci",
+    "working_directory": "/home/kavia/workspace/code-generation/asset-monitor-dashboard-b7c8b6c5/frontend_dashboard"
+}
